@@ -1,6 +1,7 @@
 {
   "soldier": {
     "Price": 50,
+    "Rarity": "common",
     "Stats": [
       {
         "Reach": 10,
