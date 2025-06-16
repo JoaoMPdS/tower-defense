@@ -1,0 +1,26 @@
+{
+  "soldier": {
+    "Price": 50,
+    "Stats": [
+      {
+        "Reach": 10,
+        "UpgradePrice": 0,
+        "Cooldown": 0.4,
+        "Damage": 20
+      },
+      {
+        "Reach": 12.5,
+        "UpgradePrice": 25,
+        "Cooldown": 0.3,
+        "Damage": 25
+      },
+      {
+        "Reach": 15,
+        "UpgradePrice": 40,
+        "Cooldown": 0.27,
+        "Damage": 27
+      }
+    ],
+    "DisplayName": "Soldier"
+  }
+}
