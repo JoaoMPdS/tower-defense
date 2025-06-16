@@ -21,6 +21,7 @@
         "Damage": 27
       }
     ],
-    "DisplayName": "Soldier"
+    "DisplayName": "Soldier",
+    "modelPath": "soldier",
   }
 }
