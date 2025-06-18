@@ -1,14 +1,15 @@
 {
-	"Test": {
-		"Difficulties": [
+  "Test": {
+    "Difficulties": [
       {
         "Rounds": 10,
         "Reward": {
           "Type": "money",
           "Amount": 50
+        }
       }
     ],
-		"Health": 101,
-		"ModelPath": "Test"
-	}
+    "Health": 101,
+    "ModelPath": "Test"
+  }
 }
