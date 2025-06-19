@@ -103,6 +103,8 @@
     "CustomViewportFramePosition": [-1.1, 2, -6],
     "CustomViewportFrameRotation": [0, -135, 0],
     "CustomPlacementYOffset": -5.10122013092041,
+    "SkipRotationAnimation": true,
+    "CustomRotationAxis": "Z",
     "DisplayName": "Snipper",
     "modelPath": "snipper"
   }
