@@ -9,7 +9,50 @@
         }
       }
     ],
-    "Health": 101,
+    "Spawns": [
+      {
+        "scout": 10
+      },
+      {
+        "scout": 15
+      },
+      {
+        "grunt": 20
+      },
+      {
+        "scout": 10,
+        "grunt": 10
+      },
+      {
+        "scout": 15,
+        "armored": 5
+      },
+      {
+        "grunt": 20,
+        "armored": 5
+      },
+      {
+        "scout": 10,
+        "armored": 5,
+        "flying": 5
+      },
+      {
+        "grunt": 20,
+        "flying": 10,
+        "armored": 5
+      },
+      {
+        "scout": 15,
+        "grunt": 15,
+        "brute": 10
+      },
+      {
+        "boss": 1,
+        "scout": 20,
+        "armored": 10
+      }
+    ],
+    "Health": 100,
     "ModelPath": "Test"
   }
 }
