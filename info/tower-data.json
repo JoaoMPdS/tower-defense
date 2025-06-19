@@ -100,6 +100,8 @@
         "Damage": 27
       }
     ],
+    "CustomViewportFramePosition": [-1.1, 2, -6],
+    "CustomViewportFrameRotation": [0, -135, 0],
     "DisplayName": "Snipper",
     "modelPath": "snipper"
   }
